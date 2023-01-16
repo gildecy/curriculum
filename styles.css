@@ -52,11 +52,9 @@ body {
     color
   
   
-    .icone-email{
+    .icone-email {
       width: 10%;
-      height: 10%;
-     
-      margin-left: 480px;
+      height: 10%; 
     }
     
     .header {
