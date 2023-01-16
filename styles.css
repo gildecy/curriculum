@@ -51,13 +51,13 @@ body {
     text-align: center;
     color
   
+  
     .icone-email{
       width: 10%;
       height: 10%;
      
       margin-left: 480px;
     }
-    
     
     .header {
     background: linear-gradient(45deg, #ee7752, #e73c7e, #23a6d5, #23d5ab);
