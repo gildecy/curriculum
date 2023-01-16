@@ -51,7 +51,12 @@ body {
     text-align: center;
     color
   
-    
+    .icone-email{
+      width: 10%;
+      height: 10%;
+     
+      margin-left: 480px;
+    }
     
     
     .header {
